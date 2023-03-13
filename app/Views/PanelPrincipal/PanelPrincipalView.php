@@ -27,8 +27,8 @@
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item"><a class="nav-link" href="index.html">Bienvenido</a></li>
                             <li class="nav-item"><a class="nav-link" href="about.html">Noticias</a></li>
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contacto</a></li>                            
-                            <li class="nav-item"><a class="nav-link" href="faq.html">Aula Virtual</a></li>
+                            <li class="nav-item"><a class="nav-link" href="contact.html">Sobre nosotros</a></li>                            
+                            <li class="nav-item"><a class="nav-link" href="faq.html">Aula virtual</a></li>
                             <strong class="text-white"><li class="nav-item"><a class="nav-link" href="faq.html">Iniciar sesión</a></li></strong>
                             <!-- <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>

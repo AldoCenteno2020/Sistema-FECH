@@ -25,12 +25,12 @@ class Database extends Config
      * The default database connection.
      */
     public array $default = [
-        'DSN'      => '',
+        'DSN'      => '', 
         'hostname' => 'localhost',
-        'username' => '',
-        'password' => '',
-        'database' => '',
-        'DBDriver' => 'MySQLi',
+        'username' => 'postgres',
+        'password' => 'ps123',
+        'database' => 'Posgrado-FECH',
+        'DBDriver' => 'postgre',
         'DBPrefix' => '',
         'pConnect' => false,
         'DBDebug'  => true,
@@ -41,7 +41,7 @@ class Database extends Config
         'compress' => false,
         'strictOn' => false,
         'failover' => [],
-        'port'     => 3306,
+        'port'     => 5432,
     ];
 
     /**
